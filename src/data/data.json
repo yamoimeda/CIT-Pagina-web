@@ -1,22 +1,29 @@
 {
+  "nav":{
+    "titulo":"CIT",
+    "items":[
+      {
+        "title":"Servicios"
+      }
+    ]
+  },
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "CIT",
+    "paragraph": "Hacemos que sucedan tus ideas."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "titulo":"Sobre nosotros",
+    "titulo2":"¿Porque Nsostros?",
+    "paragraph": "Nosoros en CIT estamos orientados a hacer que tus ideas se vuelvan realidad. Con tecnologia actualizada, a la vanguardia y una vision fresca",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Inovadores",
+      "Refescantes",
+      "Eficientes",
+      "Confiables"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+      "Applicacines Nitidas",
+      "Información En tiempo real"    ]
   },
   "Gallery": [
     {
@@ -67,33 +74,33 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-mobile",
+      "name": "Applicaciones Mobiles",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-laptop",
+      "name": "Aplicaciones Web",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-keyboard-o",
+      "name": "Paginas web",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-cogs",
+      "name": "Aplicaciones personlizadas",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-desktop",
+      "name": "Applicaciones de Escriotorio",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "icon": "fa fa-code",
+      "name": "Progrmación",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
@@ -152,33 +159,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "phone": "6305-1268",
+    "email": "yamoimeda@gmail.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-lightbulb-o",
+      "title": "Visión innovadora",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-terminal",
+      "title": "Tecnología",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-users",
+      "title": "Personas con Habilidad",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "icon": "fa fa-th-large",
+      "title": "Gestión inteligente",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
-  ]
+  ],
+  "colores":{
+    "pricipal":"#26bad4",
+    "secundario":"#00bd9a"
+  }
 }
